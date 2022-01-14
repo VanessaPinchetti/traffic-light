@@ -9,4 +9,44 @@
     
     import 'relative/path/to/stylesheet.scss';
 
-*/
+*/  
+
+
+.traffic{
+    background-color: #0c0a0a;
+    width: 80px;
+    height: 190px;
+    margin: auto;
+    margin-top: 90px;
+    padding: 10px;
+    border-radius: 15px;
+} 
+
+
+.mast{
+    background-color: #0c0a0a;
+    width: 25px;
+    height: 100px;
+    bottom: 110px;
+    position: relative;
+    left: 18px;
+}  
+
+
+.light{
+    height: 50px;
+    width: 50px;
+    margin: 5px auto;
+    border-radius: 150%;
+    padding: 10px;
+    position: relative;
+    bottom: 100px;
+}  
+
+
+.selected{
+    box-shadow: 5px 5px 18px 18px #f0ee77;
+}
+
+
+
